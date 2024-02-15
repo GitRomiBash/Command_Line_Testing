@@ -1,2 +1,1 @@
-# Command_Line_Testing
-A repo. for command line testing.
+practicing adding from command line lines of text to readme file
